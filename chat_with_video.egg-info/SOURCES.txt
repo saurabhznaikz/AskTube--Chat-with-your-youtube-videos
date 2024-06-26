@@ -1,0 +1,7 @@
+README.md
+setup.py
+chat_with_video.egg-info/PKG-INFO
+chat_with_video.egg-info/SOURCES.txt
+chat_with_video.egg-info/dependency_links.txt
+chat_with_video.egg-info/requires.txt
+chat_with_video.egg-info/top_level.txt
