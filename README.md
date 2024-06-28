@@ -2,7 +2,7 @@
 
 This system is a question answering system over a youtube video. It helps user to find solution over a video. 
 
-![AskTube](https://github.com/saurabhznaikz/SmartResumeMatcher-Enhancing-Job-Applications-with-AI-Driven-Analysis/blob/main/resume%20matcher.gif)
+![AskTube](https://github.com/saurabhznaikz/AskTube--Chat-with-your-youtube-videos/blob/main/asktube.gif)
 
 ## Installation
 Create virtual environment for python 3.10
